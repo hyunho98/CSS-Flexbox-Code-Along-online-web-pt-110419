@@ -41,5 +41,5 @@ footer {
 }
 
 .setWidth {
-  flex: 2 2 2;
+  flex: auto;
 }
