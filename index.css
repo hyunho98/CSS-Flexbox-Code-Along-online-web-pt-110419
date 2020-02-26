@@ -15,7 +15,7 @@ main {
   flex-flow: wrap;
   align-content: stretch;
   align-items: center;
-  flex-basis: 100px;
+  flex-basis: 100%
   background-color: #92C9D5;
   width: 100%;
   height: 100%;
